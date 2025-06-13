@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option csharp_namespace = "TP2_SD_Gp02";
+
+service PreprocessingService {
+  rpc PreprocessJsonToCsv (PreprocessRequest) returns (PreprocessResponse);
+
+  rpc SendSensorData (SensorDataRequest) returns (SensorDataResponse);
+}
+
+message PreprocessRequest {
+  string jsonData = 1;
+}
+
+message PreprocessResponse {
+  string csvData = 1;
+}
+
+message SensorDataRequest {
+  string wavy_id = 1;
+  string sensor_type = 2;
+  string value = 3;
+  string timestamp = 4;
+}
+
+message SensorDataResponse {
+  string message = 1;
+}

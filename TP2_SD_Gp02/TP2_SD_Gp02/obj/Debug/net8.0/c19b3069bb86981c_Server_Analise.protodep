@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Src\RPC/ServerAnalise.cs \
+obj\Debug\net8.0\Src\RPC/ServerAnaliseGrpc.cs: Src/RPC/Server_Analise.proto

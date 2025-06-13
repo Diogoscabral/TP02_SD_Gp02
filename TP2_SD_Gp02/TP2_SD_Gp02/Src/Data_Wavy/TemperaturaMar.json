@@ -1,0 +1,102 @@
+[
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 21.4,
+    "Timestamp": "2016-05-22 07:30:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 22.1,
+    "Timestamp": "2016-09-14 16:48:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 14.2,
+    "Timestamp": "2017-01-10 04:20:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 23.5,
+    "Timestamp": "2017-06-01 15:17:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 31.7,
+    "Timestamp": "2017-08-19 11:33:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 20.6,
+    "Timestamp": "2018-03-28 05:42:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 22.9,
+    "Timestamp": "2018-07-12 10:15:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 13.8,
+    "Timestamp": "2018-09-07 20:26:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 24.6,
+    "Timestamp": "2019-05-30 14:03:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 25.0,
+    "Timestamp": "2019-08-21 19:51:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 21.7,
+    "Timestamp": "2020-01-13 06:10:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 20.9,
+    "Timestamp": "2020-04-05 03:38:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 26.1,
+    "Timestamp": "2020-08-16 17:22:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 30.8,
+    "Timestamp": "2020-11-11 13:58:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 22.5,
+    "Timestamp": "2021-03-19 08:27:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 23.8,
+    "Timestamp": "2021-06-23 12:40:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 32.3,
+    "Timestamp": "2021-09-14 18:11:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 19.4,
+    "Timestamp": "2022-01-07 02:55:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 12.3,
+    "Timestamp": "2022-04-18 09:36:00"
+  },
+  {
+    "SensorType": "TemperaturaMar",
+    "Value": 26.5,
+    "Timestamp": "2022-07-29 21:19:00"
+  }
+]

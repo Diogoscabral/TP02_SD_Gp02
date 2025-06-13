@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+service AnaliseService {
+  rpc AnalisarDados (AnaliseRequest) returns (AnaliseResponse);
+}
+
+message AnaliseRequest {
+  string dados = 1; 
+}
+
+message AnaliseResponse {
+  string resultado = 1; 
+}
